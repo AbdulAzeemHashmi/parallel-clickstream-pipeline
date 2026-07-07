@@ -9,7 +9,7 @@ A fully parallel, **multi-process, multi-threaded** data pipeline on Linux that 
 
 ## 👥 Team
 
-| Name | Roll No. | GitHub |
+| Name | Roll Number | GitHub |
 |------|----------|--------|
 | Abdul Rauf | 24I-0060 | [@abdul-rauf789](https://github.com/abdul-rauf789) |
 | Abdul Azeem | 24I-2013 | [@AbdulAzeemHashmi](https://github.com/AbdulAzeemHashmi) |
