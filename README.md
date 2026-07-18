@@ -342,6 +342,6 @@ This project was submitted as academic coursework at FAST NUCES. Code is provide
 
 [![Star History Chart](https://img.shields.io/github/stars/AbdulAzeemHashmi/Operating-Systems-Project?style=social)](https://github.com/AbdulAzeemHashmi/Operating-Systems-Project)
 
-Built with 🧠 and a lot of race condition debugging by [Abdul Azeem](https://github.com/AbdulAzeemHashmi) and Abdul Rauf
+Built with 🧠 and a lot of race condition debugging by [Abdul Azeem](https://github.com/AbdulAzeemHashmi) and [Abdul Rauf](https://github.com/abdul-rauf789)
 
 </div>
